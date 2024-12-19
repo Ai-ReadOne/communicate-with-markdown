@@ -9,3 +9,7 @@
 ```sh
 echo il n'y a pas des piece
 ```
+
+- [ ] Learn markdown
+- [ ] Learn Git
+- [ ] Learn Azure
