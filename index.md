@@ -4,6 +4,5 @@
 
 ### The third header
 
-![https://unsplash.com/photos/a-person-holding-a-cell-phone-in-their-hand-JtwzKGec2vc](Image of 1tb memorycard)
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Added thre layers header using markdown notation
